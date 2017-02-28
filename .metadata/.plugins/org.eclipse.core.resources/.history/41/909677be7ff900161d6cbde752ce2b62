@@ -1,0 +1,26 @@
+package me.creepinson.mcremade.main;
+
+import me.creepinson.mcremade.render.DisplayManager;
+
+public class MinecraftRemade {
+
+	public static void main(String[] args){
+		
+		DisplayManager.createDisplay();
+		
+		while(){
+			
+			//game logic
+			
+			
+			
+			//render
+			
+			
+			
+		}
+		
+	}
+	
+	
+}
